@@ -1,0 +1,46 @@
+keywords,subject,search
+coral reef*,biological_group,1; 2; 3; 4; 5; 6; 7
+coral reef fish,biological_group,1
+reef fish*,biological_group,1; 2; 3; 4; 5; 6; 7
+reef-associat*,biological_group,2; 3; 4; 5; 6; 7
+rocky reef*,biological_group,1; 2; 3; 4; 5; 6; 7
+rocky reef fish,biological_group,1
+activity pattern*,habitat_use,3
+connect*,habitat_use,6
+distribution*,habitat_use,6
+fish movement,habitat_use,2
+habitat use,habitat_use,1; 4; 5; 6
+home range,habitat_use,1; 4; 5
+movement ecology,habitat_use,3
+movement pattern*,habitat_use,1; 4
+movement strateg*,habitat_use,3
+movement*,habitat_use,5; 6
+residency,habitat_use,2
+site fidelity,habitat_use,1
+spa* pattern,habitat_use,6
+spa* use*,habitat_use,6
+space occupancy,habitat_use,
+space use,habitat_use,1; 4; 5
+spatial connectivity,habitat_use,3
+spatial dynamic*,habitat_use,2
+spatial scale*,habitat_use,3
+spatial use,habitat_use,2
+acoustic monitoring,method,4;5
+acoustic receiver*,method,4
+acoustic tag*,method,1; 2; 3
+acoustic telemet*,method,4;5
+acoustic telemetry,method,1; 2; 3
+acoustic tracking,method,1; 2; 3
+acoustic transmitter*,method,1; 2; 3
+acoustic*,method,6; 7
+acoustic* tag*,method,4;5
+acoustic* track*,method,5
+acoustic* transmit*,method,4;5
+array,method,7
+detect*,method,7
+receiver*,method,7
+tag*,method,6; 7
+telemetry*,method,6; 7
+track*,method,6; 7
+transmit*,method,6; 7
+vemco,method,6; 7
