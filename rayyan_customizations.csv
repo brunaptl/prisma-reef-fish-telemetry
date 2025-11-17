@@ -1,0 +1,20 @@
+inclusion_criteria,exclusion_criteria,inclusion_keywords,exclusion_keywords,labels,prisma_exclusion_reasons
+Acoustic telemetry,Not acoustic telemetry,acoustic telemetry,sharks,Not acoustic telemetry,Not acoustic telemetry
+Reef-associated fish,Review article,reef fish,shark,Elasmo,Elasmo
+Reef habitat,Methodological article,habitat use,satellite,MPA,Other habitats
+Habitat-use analysis,Non-reef-associated fish,reef fishes,rays,Bioacoustics,Non-fish species
+,Elasmobranch,space use,freshwater,Spawning,Non-reef species
+,Non-reef habitat,acoustic tracking,ray,Mixed techniques,Methodological article
+,No habitat-use analysis,acoustic tag,radio,Other habitats,Review article
+,,acoustic transmitter,river,Non-fish species,Not habitat use
+,,,stingray,Non-reef species,
+,,,elasmobranchs,Reef-associated,
+,,,elasmobranch,Full text checked,
+,,,,Methodological article,
+,,,,Mixed habitats,
+,,,,Review article,
+,,,,Artificial reefs,
+,,,,Herbivorous fish,
+,,,,Not habitat use,
+,,,,Freshwater,
+,,,,Invasive or Exotic species,
